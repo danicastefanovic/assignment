@@ -1,6 +1,6 @@
 README.md:
 	echo \# Peer-graded Assignment: Bash, Make, Git, and GitHub > README.md
-	echo \### author >> README.md
+	echo \### Author >> README.md
 	echo marubono >> README.md
 	echo "" >> README.md
 	echo \### Date and time which make was run >> README.md
